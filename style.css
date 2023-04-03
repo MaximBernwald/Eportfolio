@@ -672,7 +672,7 @@ footer {
 .footer__logo--popper {
   position: absolute;
   right: 0;
-  top: 16px;
+  top: 24px;
   font-weight: 700;
   opacity: 0;
   transition: all 300ms ease;
